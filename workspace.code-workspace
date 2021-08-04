@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": "basics-01-starting-code"
+		},
+		{
+			"path": "gs-03-rebuilding-the-app-with-vue"
+		},
+		{
+			"path": "gs-01-starting-project"
+		},
+		{
+			"path": "basics-assignment-1-problem"
+		},
+		{
+			"path": "basics-03-events-starting-code"
+		},
+		{
+			"path": "basics-05-using-the-native-event-object"
+		},
+		{
+			"path": "basics-10-styling-starting-setup"
+		},
+		{
+			"path": "basics-13-dynamic-classes-array-syntax"
+		},
+		{
+			"path": "lists-cond-01-starting-setup"
+		},
+		{
+			"path": "prj-monster-01-starting-setup"
+		},
+		{
+			"path": "prj-monster-06-adding-a-battle-log"
+		},
+		{
+			"path": "behind-scenes-01-starting-setup"
+		},
+		{
+			"path": "behind-scenes-06-vue-app-lifecycle-practice"
+		},
+		{
+			"path": "cmp-intro-01-starting-setup"
+		},
+		{
+			"path": "vue-cli-01-a-new-vue-project"
+		},
+		{
+			"path": "cmp-communication-01-starting-setup"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lists-cond-01-starting-setup",
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
